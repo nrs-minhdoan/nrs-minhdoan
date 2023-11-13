@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nrs-minhdoan.my-curriculum-vitae"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nrs-minhdoan.nrs-minhdoan"  />
 </div>
 
 ###
