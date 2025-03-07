@@ -12,8 +12,6 @@
 
 ###
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/liihuu/liihuu/raw/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/liihuu/liihuu/raw/output/github-snake.svg" />
@@ -22,9 +20,6 @@
 
 ###
 
-###
-
-<img src="https://streak-stats.demolab.com?user=nrs-minhdoan&border_radius=6&card_width=500" alt="nrs-minhdoan" />
 
 ###
 
