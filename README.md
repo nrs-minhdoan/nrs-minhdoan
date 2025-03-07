@@ -22,6 +22,12 @@
 
 ###
 
+###
+
+<img src="https://streak-stats.demolab.com?user=nrs-minhdoan&border_radius=6&card_width=500" alt="nrs-minhdoan" />
+
+###
+
 <h1 align="center">Hey there 👋</h1>
 
 ###
